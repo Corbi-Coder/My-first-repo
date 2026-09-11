@@ -1,2 +1,2 @@
 # My-first-repo
-throwaway/testing
+use for practice and learning
